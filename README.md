@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @MentalMentos
-- 👀 I’m interested in golang
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on vk
-- 📫 How to reach me: vk
-
-<!---
-MentalMentos/MentalMentos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🪙 Hi, I’m guy from Saint-Petersburg.
+- 🎾 I’m interested in tennis, programming, network technologies.
+- 🛞 tg: @lil_apelsin, vk: https://vk.com/lilorangee
